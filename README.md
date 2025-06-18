@@ -26,7 +26,7 @@ The dashboard leverages **Power BI** to provide a data-driven approach for analy
 
 ---
 
-👉 **[Explore the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiYWM3ZDc0MmMtYWIwZi00NDdmLWJlOWEtZDIzOTVlNzg3MjBkIiwidCI6ImRhMDRjZDQxLTk4ZGUtNDU4YS05Zjg5LTUzNWFjODI0MWJmOSIsImMiOjJ9&pageName=d3c0f853bb5fb10d871e
+👉 **[Explore the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiNTQ1ZDhkYzYtZTk2Yy00ODEzLTk4NWItY2U5N2NlODQzZTI5IiwidCI6ImRhMDRjZDQxLTk4ZGUtNDU4YS05Zjg5LTUzNWFjODI0MWJmOSIsImMiOjJ9&pageName=d3c0f853bb5fb10d871e
 )**
 
 ---
